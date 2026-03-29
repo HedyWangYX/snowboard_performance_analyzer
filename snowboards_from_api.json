@@ -1,2990 +1,602 @@
 [
     {
-        "id": "86012",
-        "brand": "Decathlon",
-        "name": "Serenity 100 ",
-        "price_usd": 169,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 4.93
-    },
-    {
-        "id": "98007",
-        "brand": "Dreamscape",
-        "name": "All Road 900",
-        "price_usd": 268,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 3.36
-    },
-    {
-        "id": "98423",
-        "brand": "Decathlon",
-        "name": "Allroad 900",
-        "price_usd": 300,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 2.94
-    },
-    {
-        "id": "101631",
-        "brand": "Decathlon",
-        "name": "Landscape ",
-        "price_usd": 400,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 2.38
-    },
-    {
-        "id": "6693",
-        "brand": "Capita",
-        "name": "Spring Break Slush Slasher",
-        "price_usd": 430,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 2.36
-    },
-    {
-        "id": "97883",
-        "brand": "Nidecker",
-        "name": "Beta",
-        "price_usd": 480,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 2.15
-    },
-    {
-        "id": "98953",
-        "brand": "Nidecker",
-        "name": "Tracer",
-        "price_usd": 470,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 2.06
-    },
-    {
-        "id": "7052",
-        "brand": "Nidecker",
-        "name": "Mellow",
-        "price_usd": 520,
-        "performance": {
-            "powder": 3.5,
-            "carving": 5.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 2.05
-    },
-    {
-        "id": "7169",
-        "brand": "Korua",
-        "name": "Otto Classic",
-        "price_usd": 495,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 2.05
-    },
-    {
-        "id": "100624",
         "brand": "YES",
-        "name": "All-In",
-        "price_usd": 450,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 2.04
+        "name": "Basic",
+        "price": 429,
+        "value": 2.99
     },
     {
-        "id": "96246",
-        "brand": "Salomon",
-        "name": "Dancehaul",
-        "price_usd": 499,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 2.0
-    },
-    {
-        "id": "106937",
-        "brand": "Stone",
-        "name": "Farther",
-        "price_usd": 489,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.98
-    },
-    {
-        "id": "98721",
-        "brand": "Nidecker",
-        "name": "Escape",
-        "price_usd": 480,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.98
-    },
-    {
-        "id": "7042",
-        "brand": "Nitro",
-        "name": "Squash",
-        "price_usd": 499,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.97
-    },
-    {
-        "id": "1010",
-        "brand": "Salomon",
-        "name": "Oh Yeah",
-        "price_usd": 349,
-        "performance": {
-            "powder": 2.5,
-            "carving": 2.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.96
-    },
-    {
-        "id": "101107",
-        "brand": "Korua",
-        "name": "Pin Tonic",
-        "price_usd": 550,
-        "performance": {
-            "powder": 5.0,
-            "carving": 4.0,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.94
-    },
-    {
-        "id": "8467",
-        "brand": "Capita",
-        "name": "Spring Break Powder Racers",
-        "price_usd": 499,
-        "performance": {
-            "powder": 4.5,
-            "carving": 3.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.94
-    },
-    {
-        "id": "1429",
-        "brand": "YES",
-        "name": "Optimistic",
-        "price_usd": 550,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.94
-    },
-    {
-        "id": "105761",
-        "brand": "Nitro",
-        "name": "Fin Twin",
-        "price_usd": 499,
-        "performance": {
-            "powder": 4.5,
-            "carving": 3.5,
-            "freestyle": 1.5
-        },
-        "value_deal": 1.9
-    },
-    {
-        "id": "105136",
-        "brand": "Burton",
-        "name": "Cartographer",
-        "price_usd": 500,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.9
-    },
-    {
-        "id": "95811",
-        "brand": "Burton",
-        "name": "Cartographer",
-        "price_usd": 499,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.9
-    },
-    {
-        "id": "99418",
-        "brand": "Nidecker",
-        "name": "Alpha",
-        "price_usd": 500,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.9
-    },
-    {
-        "id": "105460",
-        "brand": "Jones",
-        "name": "Women's Rally Cat",
-        "price_usd": 450,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.89
-    },
-    {
-        "id": "103754",
-        "brand": "Jones",
-        "name": "Rally Cat",
-        "price_usd": 450,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.89
-    },
-    {
-        "id": "99141",
-        "brand": "Korua",
-        "name": "Womens Cafe Racer",
-        "price_usd": 599,
-        "performance": {
-            "powder": 4.5,
-            "carving": 5.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.89
-    },
-    {
-        "id": "7994",
-        "brand": "Jones",
-        "name": "Dream Weaver",
-        "price_usd": 499,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.87
-    },
-    {
-        "id": "97867",
-        "brand": "K2",
-        "name": "Instrument",
-        "price_usd": 530,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.86
-    },
-    {
-        "id": "105760",
         "brand": "Season",
         "name": "Primer",
-        "price_usd": 450,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.5,
-            "freestyle": 2.8
-        },
-        "value_deal": 1.85
+        "price": 450,
+        "value": 2.74
     },
     {
-        "id": "96029",
-        "brand": "Rome",
-        "name": "Stale Fish",
-        "price_usd": 560,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.85
-    },
-    {
-        "id": "6243",
-        "brand": "Capita",
-        "name": "Paradise",
-        "price_usd": 459,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.85
-    },
-    {
-        "id": "98842",
-        "brand": "Nidecker",
-        "name": "Escape Plus",
-        "price_usd": 520,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.83
-    },
-    {
-        "id": "97991",
-        "brand": "Dreamscape",
-        "name": "Split 500",
-        "price_usd": 536,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.83
-    },
-    {
-        "id": "8326",
-        "brand": "Weston",
-        "name": "Rise",
-        "price_usd": 524,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.81
-    },
-    {
-        "id": "101088",
-        "brand": "Nidecker",
-        "name": "Beta APX",
-        "price_usd": 580,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.81
-    },
-    {
-        "id": "103331",
-        "brand": "Amplid",
-        "name": "Soulmate",
-        "price_usd": 490,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.8
-    },
-    {
-        "id": "97025",
-        "brand": "K2",
-        "name": "Excavator",
-        "price_usd": 550,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.79
-    },
-    {
-        "id": "96091",
-        "brand": "Soul",
-        "name": "Shift",
-        "price_usd": 650,
-        "performance": {
-            "powder": 4.5,
-            "carving": 5.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.79
-    },
-    {
-        "id": "101246",
-        "brand": "Amplid",
-        "name": "Aloha Vibes",
-        "price_usd": 590,
-        "performance": {
-            "powder": 5.0,
-            "carving": 3.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.78
-    },
-    {
-        "id": "6975",
-        "brand": "Rossignol",
-        "name": "XV Sushi",
-        "price_usd": 499,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.77
-    },
-    {
-        "id": "98445",
-        "brand": "Weston",
-        "name": "Womens Revel",
-        "price_usd": 624,
-        "performance": {
-            "powder": 5.0,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.76
-    },
-    {
-        "id": "3858",
-        "brand": "YES",
-        "name": "Basic",
-        "price_usd": 429,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.75
-    },
-    {
-        "id": "8011",
-        "brand": "Gnu",
-        "name": "Antigravity",
-        "price_usd": 480,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.74
-    },
-    {
-        "id": "103951",
-        "brand": "Burton",
-        "name": "Good Company",
-        "price_usd": 440,
-        "performance": {
-            "powder": 1.0,
-            "carving": 4.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.74
-    },
-    {
-        "id": "102698",
-        "brand": "Nidecker",
-        "name": "Gamma",
-        "price_usd": 499,
-        "performance": {
-            "powder": 2.0,
-            "carving": 4.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.74
-    },
-    {
-        "id": "389",
-        "brand": "Rome",
-        "name": "Agent",
-        "price_usd": 499,
-        "performance": {
-            "powder": 2.0,
-            "carving": 4.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.74
-    },
-    {
-        "id": "446",
-        "brand": "YES",
-        "name": "Basic",
-        "price_usd": 430,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.74
-    },
-    {
-        "id": "8313",
-        "brand": "K2",
-        "name": "Wildheart",
-        "price_usd": 480,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 1.3
-        },
-        "value_deal": 1.74
-    },
-    {
-        "id": "95993",
-        "brand": "Gnu",
-        "name": "Banked Country",
-        "price_usd": 529,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.73
-    },
-    {
-        "id": "97785",
-        "brand": "Never Summer",
-        "name": "Womens Proto Slinger",
-        "price_usd": 550,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.73
-    },
-    {
-        "id": "443",
-        "brand": "YES",
-        "name": "Ghost",
-        "price_usd": 549,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.73
-    },
-    {
-        "id": "105813",
-        "brand": "Nitro",
-        "name": "Dinghy",
-        "price_usd": 600,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.72
-    },
-    {
-        "id": "98197",
-        "brand": "Nidecker",
-        "name": "Smoke",
-        "price_usd": 650,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.72
-    },
-    {
-        "id": "105182",
-        "brand": "Burton",
-        "name": "Alekesam",
-        "price_usd": 600,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.72
-    },
-    {
-        "id": "104289",
-        "brand": "Burton",
-        "name": "Alekesam",
-        "price_usd": 600,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.72
-    },
-    {
-        "id": "97682",
-        "brand": "Salomon",
-        "name": "Wolle Nyvelt Fish",
-        "price_usd": 650,
-        "performance": {
-            "powder": 5.0,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.72
-    },
-    {
-        "id": "103918",
-        "brand": "Nitro",
-        "name": "Alternator",
-        "price_usd": 580,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.72
-    },
-    {
-        "id": "21192",
-        "brand": "Stone",
-        "name": "Message",
-        "price_usd": 475,
-        "performance": {
-            "powder": 1.0,
-            "carving": 4.5,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.72
-    },
-    {
-        "id": "439",
-        "brand": "YES",
-        "name": "Pick Your Line",
-        "price_usd": 529,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.7
-    },
-    {
-        "id": "90704",
-        "brand": "Rossignol",
-        "name": "After Hours",
-        "price_usd": 580,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.7
-    },
-    {
-        "id": "6340",
-        "brand": "K2",
-        "name": "Eighty Seven",
-        "price_usd": 549,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.7
-    },
-    {
-        "id": "103356",
-        "brand": "Amplid",
-        "name": "Snommelier",
-        "price_usd": 650,
-        "performance": {
-            "powder": 5.0,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.69
-    },
-    {
-        "id": "100609",
-        "brand": "YES",
-        "name": "Pyzel",
-        "price_usd": 600,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.69
-    },
-    {
-        "id": "7348",
-        "brand": "Burton",
-        "name": "Story Board",
-        "price_usd": 619,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.67
-    },
-    {
-        "id": "95461",
-        "brand": "YES",
-        "name": "Basic Uninc",
-        "price_usd": 579,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.67
-    },
-    {
-        "id": "101124",
-        "brand": "Burton",
-        "name": "Power Wagon",
-        "price_usd": 580,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.67
-    },
-    {
-        "id": "99034",
-        "brand": "Ride",
-        "name": "Agenda",
-        "price_usd": 449,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.67
-    },
-    {
-        "id": "98655",
-        "brand": "Nidecker",
-        "name": "Alpha APX",
-        "price_usd": 570,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.67
-    },
-    {
-        "id": "97137",
-        "brand": "YES",
-        "name": "Standard Uninc",
-        "price_usd": 600,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.67
-    },
-    {
-        "id": "159",
-        "brand": "Capita ",
-        "name": "Indoor Survival",
-        "price_usd": 549,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.67
-    },
-    {
-        "id": "97042",
-        "brand": "Cardiff",
-        "name": "Lynx",
-        "price_usd": 560,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.67
-    },
-    {
-        "id": "8339",
-        "brand": "Niche ",
-        "name": "Nightshade",
-        "price_usd": 529,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.67
-    },
-    {
-        "id": "444",
-        "brand": "YES",
-        "name": "Greats",
-        "price_usd": 550,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.64
-    },
-    {
-        "id": "8350",
-        "brand": "Jones",
-        "name": "Frontier",
-        "price_usd": 530,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.64
-    },
-    {
-        "id": "106371",
-        "brand": "Nitro ",
-        "name": "Women's Alternator",
-        "price_usd": 580,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.64
-    },
-    {
-        "id": "105846",
-        "brand": "Yes",
-        "name": "Hel Yes Women's",
-        "price_usd": 550,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.64
-    },
-    {
-        "id": "105762",
-        "brand": "Nitro",
-        "name": "Banker",
-        "price_usd": 600,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.64
-    },
-    {
-        "id": "105543",
-        "brand": "Cardiff",
-        "name": "Women's Lynx",
-        "price_usd": 570,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.64
-    },
-    {
-        "id": "8252",
-        "brand": "Lib Tech",
-        "name": "Dynamo",
-        "price_usd": 579,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.64
-    },
-    {
-        "id": "84762",
-        "brand": "Jones",
-        "name": "Stratos",
-        "price_usd": 599,
-        "performance": {
-            "powder": 4.5,
-            "carving": 3.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.64
-    },
-    {
-        "id": "2159",
-        "brand": "YES",
-        "name": "Hel Yes",
-        "price_usd": 550,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.64
-    },
-    {
-        "id": "106637",
-        "brand": "YES",
-        "name": "Pick Your Line Xtrm",
-        "price_usd": 630,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.61
-    },
-    {
-        "id": "104444",
-        "brand": "Stone",
-        "name": "Origin",
-        "price_usd": 550,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.61
-    },
-    {
-        "id": "5716",
-        "brand": "Jones",
-        "name": "Storm Chaser",
-        "price_usd": 599,
-        "performance": {
-            "powder": 4.5,
-            "carving": 3.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.61
-    },
-    {
-        "id": "99003",
-        "brand": "K2",
-        "name": "Niseko Pleasures",
-        "price_usd": 600,
-        "performance": {
-            "powder": 4.5,
-            "carving": 3.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.61
-    },
-    {
-        "id": "97829",
-        "brand": "Ride",
-        "name": "Peace Seeker",
-        "price_usd": 600,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.61
-    },
-    {
-        "id": "3782",
-        "brand": "YES",
-        "name": "Standard",
-        "price_usd": 499,
-        "performance": {
-            "powder": 3.5,
-            "carving": 2.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.6
-    },
-    {
-        "id": "105502",
-        "brand": "Jones ",
-        "name": "Women's Tweaker",
-        "price_usd": 500,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.6
-    },
-    {
-        "id": "8322",
-        "brand": "Rossignol",
-        "name": "Meraki",
-        "price_usd": 479,
-        "performance": {
-            "powder": 3.0,
-            "carving": 2.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.6
-    },
-    {
-        "id": "7907",
-        "brand": "Nitro",
-        "name": "Slash",
-        "price_usd": 599,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.59
-    },
-    {
-        "id": "3740",
-        "brand": "Burton",
-        "name": "Flight Attendant",
-        "price_usd": 620,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.59
-    },
-    {
-        "id": "106939",
-        "brand": "K2",
-        "name": "Almanac",
-        "price_usd": 559,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.58
-    },
-    {
-        "id": "106935",
-        "brand": "YES",
-        "name": "All In XTRM",
-        "price_usd": 580,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.58
-    },
-    {
-        "id": "106177",
-        "brand": "Never Summer",
-        "name": "Benchmark",
-        "price_usd": 600,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.58
-    },
-    {
-        "id": "104199",
-        "brand": "United Shapes",
-        "name": "Horizon",
-        "price_usd": 600,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.58
-    },
-    {
-        "id": "989",
-        "brand": "Rossignol",
-        "name": "Diva",
-        "price_usd": 579,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.58
-    },
-    {
-        "id": "8324",
-        "brand": "Weston",
-        "name": "Riva",
-        "price_usd": 624,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.58
-    },
-    {
-        "id": "91566",
-        "brand": "Weston",
-        "name": "Eclipse",
-        "price_usd": 624,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.58
-    },
-    {
-        "id": "98854",
-        "brand": "Nidecker",
-        "name": "Thruster",
-        "price_usd": 570,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.58
-    },
-    {
-        "id": "97326",
-        "brand": "YES",
-        "name": "Warca",
-        "price_usd": 600,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.58
-    },
-    {
-        "id": "8149",
-        "brand": "Salomon",
-        "name": "HPS Takaharu Nakai",
-        "price_usd": 669,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.57
-    },
-    {
-        "id": "8478",
-        "brand": "Ride",
-        "name": "Burnout",
-        "price_usd": 499,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.57
-    },
-    {
-        "id": "106940",
-        "brand": "Capita",
-        "name": "Spring Break Stairmaster",
-        "price_usd": 480,
-        "performance": {
-            "powder": 1.5,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.56
-    },
-    {
-        "id": "6754",
-        "brand": "Burton",
-        "name": "Deep Thinker",
-        "price_usd": 639,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.56
-    },
-    {
-        "id": "102687",
-        "brand": "Soul",
-        "name": "Zen",
-        "price_usd": 600,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.56
-    },
-    {
-        "id": "3278",
-        "brand": "Jones",
-        "name": "Hovercraft 2.0",
-        "price_usd": 600,
-        "performance": {
-            "powder": 4.5,
-            "carving": 3.5,
-            "freestyle": 1.3
-        },
-        "value_deal": 1.56
-    },
-    {
-        "id": "97767",
-        "brand": "Never Summer",
-        "name": "Lady FR",
-        "price_usd": 590,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.55
-    },
-    {
-        "id": "106078",
         "brand": "Lib Tech",
         "name": "Legitimizer",
-        "price_usd": 499,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.54
+        "price": 499,
+        "value": 2.61
     },
     {
-        "id": "100883",
-        "brand": "Never Summer",
-        "name": "Cougar",
-        "price_usd": 650,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.54
-    },
-    {
-        "id": "99627",
-        "brand": "Rossignol",
-        "name": "Airis",
-        "price_usd": 520,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.54
-    },
-    {
-        "id": "106184",
-        "brand": "United Shapes",
-        "name": "Cadet Limited",
-        "price_usd": 699,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.53
-    },
-    {
-        "id": "6949",
-        "brand": "Lib Tech ",
-        "name": "Mayhem Rocket",
-        "price_usd": 630,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.53
-    },
-    {
-        "id": "105708",
-        "brand": "Bataleon",
-        "name": "Beyond Medals",
-        "price_usd": 600,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.53
-    },
-    {
-        "id": "103491",
-        "brand": "Never Summer",
-        "name": "Breezy Rider",
-        "price_usd": 589,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.53
-    },
-    {
-        "id": "7196",
-        "brand": "K2",
-        "name": "Manifest",
-        "price_usd": 579,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.53
-    },
-    {
-        "id": "91510",
-        "brand": "Lib Tech",
-        "name": "Lost Retro Ripper",
-        "price_usd": 699,
-        "performance": {
-            "powder": 4.0,
-            "carving": 5.0,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.53
-    },
-    {
-        "id": "106519",
-        "brand": "Burton",
-        "name": "Counterbalance",
-        "price_usd": 660,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.52
-    },
-    {
-        "id": "103856",
-        "brand": "United Shapes",
-        "name": "Cadet",
-        "price_usd": 700,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.52
-    },
-    {
-        "id": "101141",
-        "brand": "Burton",
-        "name": "Gril Master",
-        "price_usd": 680,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.52
-    },
-    {
-        "id": "7289",
-        "brand": "Lib Tech",
-        "name": "MC Wayfinder",
-        "price_usd": 560,
-        "performance": {
-            "powder": 4.5,
-            "carving": 2.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.52
-    },
-    {
-        "id": "96007",
-        "brand": "Telos ",
-        "name": "BackSlash",
-        "price_usd": 630,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.51
-    },
-    {
-        "id": "99018",
         "brand": "Jones",
-        "name": "Tweaker",
-        "price_usd": 530,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.51
+        "name": "Women's Rally Cat",
+        "price": 450,
+        "value": 2.56
     },
     {
-        "id": "104172",
-        "brand": "Soul",
-        "name": "Tree DX",
-        "price_usd": 700,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.5
-    },
-    {
-        "id": "83706",
-        "brand": "Nidecker",
-        "name": "The Mosquito",
-        "price_usd": 650,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.49
-    },
-    {
-        "id": "102046",
-        "brand": "Nidecker",
-        "name": "Gamma APX",
-        "price_usd": 580,
-        "performance": {
-            "powder": 2.0,
-            "carving": 4.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.49
-    },
-    {
-        "id": "100944",
-        "brand": "Rome",
-        "name": "Agent Pro",
-        "price_usd": 580,
-        "performance": {
-            "powder": 2.0,
-            "carving": 4.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.49
-    },
-    {
-        "id": "100836",
-        "brand": "Korua",
-        "name": "Cafe' Racer Plus",
-        "price_usd": 770,
-        "performance": {
-            "powder": 4.5,
-            "carving": 5.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.49
-    },
-    {
-        "id": "108130",
-        "brand": "K2",
-        "name": "Sky Pilot",
-        "price_usd": 630,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.48
-    },
-    {
-        "id": "99827",
-        "brand": "Yes",
-        "name": "Rival",
-        "price_usd": 530,
-        "performance": {
-            "powder": 1.0,
-            "carving": 4.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.48
-    },
-    {
-        "id": "104120",
-        "brand": "Salomon",
-        "name": "Dancehaul Pro",
-        "price_usd": 680,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.47
-    },
-    {
-        "id": "5671",
-        "brand": "YES",
-        "name": "Typo",
-        "price_usd": 499,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.47
-    },
-    {
-        "id": "91787",
         "brand": "Burton",
-        "name": "Straight Chuter",
-        "price_usd": 749,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.47
+        "name": "Cartographer",
+        "price": 499,
+        "value": 2.51
     },
     {
-        "id": "4062",
-        "brand": "Never Summer",
-        "name": "Funslinger",
-        "price_usd": 520,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.47
-    },
-    {
-        "id": "3738",
-        "brand": "Ride",
-        "name": "Helix",
-        "price_usd": 499,
-        "performance": {
-            "powder": 1.5,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.47
-    },
-    {
-        "id": "104067",
-        "brand": "Stranda",
-        "name": "Biru",
-        "price_usd": 690,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.45
-    },
-    {
-        "id": "103078",
-        "brand": "K2",
-        "name": "Medium",
-        "price_usd": 550,
-        "performance": {
-            "powder": 1.5,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.45
-    },
-    {
-        "id": "3226",
-        "brand": "Jones ",
-        "name": "Mountain Twin",
-        "price_usd": 550,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.45
-    },
-    {
-        "id": "98031",
-        "brand": "K2",
-        "name": "Passport",
-        "price_usd": 530,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.0,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.45
-    },
-    {
-        "id": "8354",
         "brand": "Burton",
-        "name": "Hometown Hero",
-        "price_usd": 669,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.44
+        "name": "Cartographer",
+        "price": 500,
+        "value": 2.5
     },
     {
-        "id": "103183",
+        "brand": "Stone",
+        "name": "Farther",
+        "price": 489,
+        "value": 2.45
+    },
+    {
+        "brand": "Jones",
+        "name": "Frontier",
+        "price": 530,
+        "value": 2.45
+    },
+    {
         "brand": "Gnu",
-        "name": "Hyper",
-        "price_usd": 567,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.44
+        "name": "Antigravity",
+        "price": 480,
+        "value": 2.43
     },
     {
-        "id": "97661",
-        "brand": "Salomon",
-        "name": "Highpath",
-        "price_usd": 650,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.44
-    },
-    {
-        "id": "951",
-        "brand": "Never Summer",
-        "name": "Infinity",
-        "price_usd": 569,
-        "performance": {
-            "powder": 3.5,
-            "carving": 2.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.44
-    },
-    {
-        "id": "106185",
-        "brand": "United Shapes",
-        "name": "Transmission",
-        "price_usd": 699,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.43
-    },
-    {
-        "id": "106011",
-        "brand": "Lib Tech",
-        "name": "Son Of Birdman",
-        "price_usd": 750,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.42
-    },
-    {
-        "id": "103194",
-        "brand": "Lib Tech",
-        "name": "Lib Rig",
-        "price_usd": 660,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.41
-    },
-    {
-        "id": "99302",
-        "brand": "Arbor",
-        "name": "Satori Camber",
-        "price_usd": 650,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.41
-    },
-    {
-        "id": "99247",
-        "brand": "Arbor",
-        "name": "Satori Camber",
-        "price_usd": 650,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.41
-    },
-    {
-        "id": "97119",
-        "brand": "Ride",
-        "name": "Shadowban",
-        "price_usd": 579,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.41
-    },
-    {
-        "id": "95520",
-        "brand": "Arbor",
-        "name": "Cadence Camber",
-        "price_usd": 474,
-        "performance": {
-            "powder": 1.5,
-            "carving": 2.5,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.41
-    },
-    {
-        "id": "106521",
-        "brand": "YES",
-        "name": "Standard Xtrm",
-        "price_usd": 690,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.4
-    },
-    {
-        "id": "106182",
-        "brand": "Never Summer",
-        "name": "Proto T3 Ultra",
-        "price_usd": 700,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.4
-    },
-    {
-        "id": "103978",
-        "brand": "Stranda",
-        "name": "Descender",
-        "price_usd": 690,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.4
-    },
-    {
-        "id": "103727",
-        "brand": "Soul",
-        "name": "Fukai",
-        "price_usd": 700,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.4
-    },
-    {
-        "id": "105640",
-        "brand": "Bataleon",
-        "name": "Cameleon",
-        "price_usd": 660,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.39
-    },
-    {
-        "id": "106520",
-        "brand": "Weston",
-        "name": "Gnarnia",
-        "price_usd": 700,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.38
-    },
-    {
-        "id": "39",
-        "brand": "Bataleon ",
-        "name": "Goliath",
-        "price_usd": 630,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.38
-    },
-    {
-        "id": "7442",
-        "brand": "Salomon",
-        "name": "Assassin Pro",
-        "price_usd": 629,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.38
-    },
-    {
-        "id": "102709",
-        "brand": "Amplid",
-        "name": "Morning Glory",
-        "price_usd": 700,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.38
-    },
-    {
-        "id": "100864",
         "brand": "Capita",
-        "name": "Aeronaut",
-        "price_usd": 650,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.38
+        "name": "Spring Break Stairmaster",
+        "price": 480,
+        "value": 2.4
     },
     {
-        "id": "100269",
-        "brand": "Jones",
-        "name": "Freecarver 9000s",
-        "price_usd": 630,
-        "performance": {
-            "powder": 2.0,
-            "carving": 5.0,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.38
+        "brand": "Jones ",
+        "name": "Women's Tweaker",
+        "price": 500,
+        "value": 2.4
     },
     {
-        "id": "98525",
-        "brand": "Lib Tech ",
-        "name": "Rasman",
-        "price_usd": 630,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.38
-    },
-    {
-        "id": "97805",
-        "brand": "K2",
-        "name": "Alchemist",
-        "price_usd": 699,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.38
-    },
-    {
-        "id": "106462",
-        "brand": "K2",
-        "name": "Commonwealth",
-        "price_usd": 670,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.37
-    },
-    {
-        "id": "101617",
-        "brand": "Korua",
-        "name": "Dart Plus",
-        "price_usd": 830,
-        "performance": {
-            "powder": 5.0,
-            "carving": 4.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.37
-    },
-    {
-        "id": "101206",
-        "brand": "Never Summer",
-        "name": "Shapeshifter",
-        "price_usd": 620,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.37
-    },
-    {
-        "id": "106844",
-        "brand": "Jones",
-        "name": "Women's Howler",
-        "price_usd": 700,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.36
-    },
-    {
-        "id": "106461",
-        "brand": "Ride",
-        "name": "Moderator",
-        "price_usd": 650,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.36
-    },
-    {
-        "id": "7073",
-        "brand": "Lib Tech",
-        "name": "EJack Knife",
-        "price_usd": 699,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.36
-    },
-    {
-        "id": "105968",
-        "brand": "Lib Tech",
-        "name": "Mayhem Sweetfish",
-        "price_usd": 749,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.0,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.36
-    },
-    {
-        "id": "103995",
-        "brand": "Stranda",
-        "name": "Tree Surfer",
-        "price_usd": 795,
-        "performance": {
-            "powder": 5.0,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.36
-    },
-    {
-        "id": "3215",
-        "brand": "Burton",
-        "name": "Custom",
-        "price_usd": 660,
-        "performance": {
-            "powder": 2.0,
-            "carving": 4.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.36
-    },
-    {
-        "id": "7216",
-        "brand": "Capita",
-        "name": "Navigator",
-        "price_usd": 600,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.36
-    },
-    {
-        "id": "99534",
-        "brand": "Ride",
-        "name": "Benchwarmer",
-        "price_usd": 550,
-        "performance": {
-            "powder": 1.0,
-            "carving": 4.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.36
-    },
-    {
-        "id": "99319",
-        "brand": "Burton",
-        "name": "3D Deep Daze",
-        "price_usd": 660,
-        "performance": {
-            "powder": 5.0,
-            "carving": 2.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.36
-    },
-    {
-        "id": "6238",
         "brand": "Capita",
         "name": "Outerspace Living",
-        "price_usd": 530,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.35
+        "price": 530,
+        "value": 2.36
     },
     {
-        "id": "3097",
-        "brand": "Salomon",
-        "name": "Assassin",
-        "price_usd": 599,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.34
+        "brand": "YES",
+        "name": "Standard",
+        "price": 499,
+        "value": 2.34
     },
     {
-        "id": "104150",
-        "brand": "Jones",
-        "name": "Freecarver 6000s",
-        "price_usd": 670,
-        "performance": {
-            "powder": 2.0,
-            "carving": 5.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.34
+        "brand": "YES",
+        "name": "Pick Your Line",
+        "price": 529,
+        "value": 2.33
     },
     {
-        "id": "6866",
-        "brand": "Jones",
-        "name": "Airheart",
-        "price_usd": 599,
-        "performance": {
-            "powder": 1.5,
-            "carving": 4.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.34
-    },
-    {
-        "id": "105626",
-        "brand": "Soul",
-        "name": "Tree D",
-        "price_usd": 700,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.33
-    },
-    {
-        "id": "103823",
-        "brand": "Cardiff",
-        "name": "Powgoda",
-        "price_usd": 800,
-        "performance": {
-            "powder": 5.0,
-            "carving": 3.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.33
-    },
-    {
-        "id": "101588",
-        "brand": "K2",
-        "name": "Antidote",
-        "price_usd": 650,
-        "performance": {
-            "powder": 2.0,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.33
-    },
-    {
-        "id": "101227",
-        "brand": "Ride",
-        "name": "Deep Fake",
-        "price_usd": 700,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.33
-    },
-    {
-        "id": "106653",
-        "brand": "Jones",
-        "name": "Howler",
-        "price_usd": 700,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.31
-    },
-    {
-        "id": "103693",
-        "brand": "Capita",
-        "name": "Spring Break Resort Twin",
-        "price_usd": 600,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.31
-    },
-    {
-        "id": "103314",
-        "brand": "Amplid",
-        "name": "Singular",
-        "price_usd": 660,
-        "performance": {
-            "powder": 2.0,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.31
-    },
-    {
-        "id": "6967",
-        "brand": "Lib Tech",
-        "name": "Terrain Wrecker",
-        "price_usd": 600,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.31
-    },
-    {
-        "id": "102965",
-        "brand": "K2",
-        "name": "Hypnotist",
-        "price_usd": 600,
-        "performance": {
-            "powder": 1.0,
-            "carving": 4.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.31
-    },
-    {
-        "id": "6001",
-        "brand": "Never Summer",
-        "name": "Swift",
-        "price_usd": 699,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.31
-    },
-    {
-        "id": "95589",
-        "brand": "Jones",
-        "name": "Mind Expander Twin",
-        "price_usd": 599,
-        "performance": {
-            "powder": 3.5,
-            "carving": 2.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.31
-    },
-    {
-        "id": "19551",
-        "brand": "Salomon",
-        "name": "Huck Knife Pro",
-        "price_usd": 549,
-        "performance": {
-            "powder": 1.0,
-            "carving": 3.5,
-            "freestyle": 2.7
-        },
-        "value_deal": 1.31
-    },
-    {
-        "id": "106517",
-        "brand": "Telos",
-        "name": "DST",
-        "price_usd": 749,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.29
-    },
-    {
-        "id": "106181",
-        "brand": "Never Summer",
-        "name": "Proto Type 3",
-        "price_usd": 700,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.29
-    },
-    {
-        "id": "95378",
-        "brand": "Cardiff",
-        "name": "Crane",
-        "price_usd": 700,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.29
-    },
-    {
-        "id": "106179",
-        "brand": "Never Summer",
-        "name": "Proto T3 Eclipse",
-        "price_usd": 650,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.28
-    },
-    {
-        "id": "96230",
-        "brand": "Cardiff",
-        "name": "Goat",
-        "price_usd": 750,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.27
-    },
-    {
-        "id": "104320",
-        "brand": "Burton",
-        "name": "High Fidelity",
-        "price_usd": 840,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.27
-    },
-    {
-        "id": "3128",
-        "brand": "Lib Tech",
-        "name": "TRS",
-        "price_usd": 630,
-        "performance": {
-            "powder": 1.5,
-            "carving": 4.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.27
-    },
-    {
-        "id": "3229",
-        "brand": "Jones",
-        "name": "Flagship",
-        "price_usd": 700,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.26
-    },
-    {
-        "id": "102781",
         "brand": "Korua",
-        "name": "Uberegg",
-        "price_usd": 595,
-        "performance": {
-            "powder": 5.0,
-            "carving": 1.0,
-            "freestyle": 1.5
-        },
-        "value_deal": 1.26
+        "name": "Otto Classic",
+        "price": 495,
+        "value": 2.26
     },
     {
-        "id": "8112",
-        "brand": "Korua",
-        "name": "Transition Finder Plus",
-        "price_usd": 799,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.25
+        "brand": "Nitro",
+        "name": "Squash",
+        "price": 499,
+        "value": 2.24
     },
     {
-        "id": "100559",
-        "brand": "Amplid",
-        "name": "Surfari",
-        "price_usd": 840,
-        "performance": {
-            "powder": 3.5,
-            "carving": 5.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.25
+        "brand": "Nitro",
+        "name": "Fin Twin",
+        "price": 499,
+        "value": 2.24
     },
     {
-        "id": "345",
         "brand": "Nidecker",
-        "name": "Megalight",
-        "price_usd": 850,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.24
+        "name": "Mellow",
+        "price": 520,
+        "value": 2.24
     },
     {
-        "id": "4305",
-        "brand": "Capita",
-        "name": "Mercury",
-        "price_usd": 630,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.24
+        "brand": "K2",
+        "name": "Excavator",
+        "price": 550,
+        "value": 2.21
     },
     {
-        "id": "7292",
-        "brand": "Lib Tech",
-        "name": "Stump Ape",
-        "price_usd": 660,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.0,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.24
+        "brand": "Stone",
+        "name": "Origin",
+        "price": 550,
+        "value": 2.21
     },
     {
-        "id": "100903",
-        "brand": "Never Summer",
-        "name": "Valhalla",
-        "price_usd": 680,
-        "performance": {
-            "powder": 3.5,
-            "carving": 3.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.23
+        "brand": "K2",
+        "name": "Almanac",
+        "price": 559,
+        "value": 2.18
     },
     {
-        "id": "107856",
-        "brand": "Burton",
-        "name": "Smooth Operator ",
-        "price_usd": 850,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.22
+        "brand": "YES",
+        "name": "Greats",
+        "price": 550,
+        "value": 2.18
     },
     {
-        "id": "106093",
-        "brand": "Lib Tech",
-        "name": "Skunk Ape Camber",
-        "price_usd": 699,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.22
-    },
-    {
-        "id": "106092",
-        "brand": "Lib Tech",
-        "name": "T.Rice Pro Camber",
-        "price_usd": 629,
-        "performance": {
-            "powder": 1.0,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.22
-    },
-    {
-        "id": "104247",
-        "brand": "Never Summer",
-        "name": "Nokhu",
-        "price_usd": 670,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.22
-    },
-    {
-        "id": "8087",
-        "brand": "Jones",
-        "name": "Ultra Mind Expander",
-        "price_usd": 779,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.22
-    },
-    {
-        "id": "3178",
-        "brand": "Lib Tech",
-        "name": "Box Scratcher",
-        "price_usd": 479,
-        "performance": {
-            "powder": 1.5,
-            "carving": 2.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.22
-    },
-    {
-        "id": "153",
-        "brand": "Capita",
-        "name": "Black Snowboard of Death",
-        "price_usd": 749,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.2
-    },
-    {
-        "id": "98408",
-        "brand": "Rad Air",
-        "name": "Tanker",
-        "price_usd": 849,
-        "performance": {
-            "powder": 5.0,
-            "carving": 3.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.2
-    },
-    {
-        "id": "106180",
-        "brand": "Never Summer",
-        "name": "Llama",
-        "price_usd": 660,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.0,
-            "freestyle": 2.8
-        },
-        "value_deal": 1.19
-    },
-    {
-        "id": "105741",
-        "brand": "Bataleon",
-        "name": "Goliath Plus",
-        "price_usd": 700,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.19
-    },
-    {
-        "id": "91487",
         "brand": "Gnu",
-        "name": "RC C3",
-        "price_usd": 659,
-        "performance": {
-            "powder": 1.5,
-            "carving": 4.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.19
+        "name": "Banked Country",
+        "price": 529,
+        "value": 2.11
     },
     {
-        "id": "6703",
-        "brand": "United Shapes",
-        "name": "Deep Reach",
-        "price_usd": 750,
-        "performance": {
-            "powder": 4.5,
-            "carving": 2.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.18
+        "brand": "YES",
+        "name": "All In XTRM",
+        "price": 580,
+        "value": 2.1
     },
     {
-        "id": "103934",
-        "brand": "Jones",
-        "name": "Flagship Pro",
-        "price_usd": 850,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.18
+        "brand": "Yes",
+        "name": "Hel Yes Women's",
+        "price": 550,
+        "value": 2.06
     },
     {
-        "id": "5717",
-        "brand": "Jones",
-        "name": "Ultra Mountain Twin",
-        "price_usd": 650,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.18
+        "brand": "Cardiff",
+        "name": "Women's Lynx",
+        "price": 570,
+        "value": 2.05
     },
     {
-        "id": "3082",
+        "brand": "Nitro ",
+        "name": "Women's Alternator",
+        "price": 580,
+        "value": 2.04
+    },
+    {
+        "brand": "Nitro",
+        "name": "Slash",
+        "price": 599,
+        "value": 2.03
+    },
+    {
+        "brand": "Nitro",
+        "name": "Banker",
+        "price": 600,
+        "value": 2.03
+    },
+    {
+        "brand": "Bataleon",
+        "name": "Beyond Medals",
+        "price": 600,
+        "value": 2.03
+    },
+    {
+        "brand": "Bataleon ",
+        "name": "Goliath",
+        "price": 630,
+        "value": 2.01
+    },
+    {
         "brand": "Capita",
         "name": "Outsiders",
-        "price_usd": 599,
-        "performance": {
-            "powder": 1.0,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.17
+        "price": 599,
+        "value": 2.0
     },
     {
-        "id": "106941",
-        "brand": "Burton",
-        "name": "Smooth Operator",
-        "price_usd": 900,
-        "performance": {
-            "powder": 4.5,
-            "carving": 4.0,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.15
+        "brand": "Salomon",
+        "name": "Assassin",
+        "price": 599,
+        "value": 2.0
     },
     {
-        "id": "100585",
-        "brand": "Amplid",
-        "name": "Souly Grail",
-        "price_usd": 869,
-        "performance": {
-            "powder": 3.0,
-            "carving": 4.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.15
+        "brand": "Lib Tech",
+        "name": "Dynamo",
+        "price": 579,
+        "value": 1.99
     },
     {
-        "id": "6691",
-        "brand": "Capita",
-        "name": "Kazu Kokubo Pro",
-        "price_usd": 650,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.15
-    },
-    {
-        "id": "8122",
-        "brand": "Capita",
-        "name": "Spring Break Powder Glider",
-        "price_usd": 799,
-        "performance": {
-            "powder": 5.0,
-            "carving": 2.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.13
-    },
-    {
-        "id": "103410",
-        "brand": "Garden",
-        "name": "Ragamuff",
-        "price_usd": 620,
-        "performance": {
-            "powder": 3.0,
-            "carving": 2.5,
-            "freestyle": 1.5
-        },
-        "value_deal": 1.13
-    },
-    {
-        "id": "103344",
-        "brand": "Amplid",
-        "name": "Pentaquark",
-        "price_usd": 840,
-        "performance": {
-            "powder": 2.5,
-            "carving": 5.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.13
-    },
-    {
-        "id": "302",
-        "brand": "Lib Tech ",
-        "name": "Skunk Ape",
-        "price_usd": 699,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.12
-    },
-    {
-        "id": "95561",
-        "brand": "Cardiff",
-        "name": "Powgoda Enduro Split",
-        "price_usd": 950,
-        "performance": {
-            "powder": 5.0,
-            "carving": 3.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.12
-    },
-    {
-        "id": "105694",
-        "brand": "Jones ",
-        "name": "Mind Expander Split",
-        "price_usd": 930,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.11
-    },
-    {
-        "id": "106183",
         "brand": "Never Summer",
-        "name": "Trooper",
-        "price_usd": 640,
-        "performance": {
-            "powder": 2.5,
-            "carving": 2.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.09
+        "name": "Llama",
+        "price": 660,
+        "value": 1.94
     },
     {
-        "id": "104265",
+        "brand": "Nitro",
+        "name": "Dinghy",
+        "price": 600,
+        "value": 1.94
+    },
+    {
+        "brand": "Burton",
+        "name": "Alekesam",
+        "price": 600,
+        "value": 1.94
+    },
+    {
+        "brand": "Burton",
+        "name": "Alekesam",
+        "price": 600,
+        "value": 1.94
+    },
+    {
+        "brand": "YES",
+        "name": "Pick Your Line Xtrm",
+        "price": 630,
+        "value": 1.93
+    },
+    {
+        "brand": "Never Summer",
+        "name": "Benchmark",
+        "price": 600,
+        "value": 1.92
+    },
+    {
+        "brand": "Lib Tech",
+        "name": "Lib Rig",
+        "price": 660,
+        "value": 1.92
+    },
+    {
+        "brand": "Salomon",
+        "name": "Wolle Nyvelt Fish",
+        "price": 650,
+        "value": 1.92
+    },
+    {
+        "brand": "United Shapes",
+        "name": "Horizon",
+        "price": 600,
+        "value": 1.92
+    },
+    {
+        "brand": "Lib Tech ",
+        "name": "Mayhem Rocket",
+        "price": 630,
+        "value": 1.9
+    },
+    {
+        "brand": "Telos ",
+        "name": "BackSlash",
+        "price": 630,
+        "value": 1.88
+    },
+    {
+        "brand": "Burton",
+        "name": "Story Board",
+        "price": 619,
+        "value": 1.88
+    },
+    {
+        "brand": "Ride",
+        "name": "Moderator",
+        "price": 650,
+        "value": 1.87
+    },
+    {
+        "brand": "Never Summer",
+        "name": "Nokhu",
+        "price": 670,
+        "value": 1.87
+    },
+    {
+        "brand": "Salomon",
+        "name": "HPS Takaharu Nakai",
+        "price": 669,
+        "value": 1.87
+    },
+    {
         "brand": "Never Summer",
         "name": "Easy Rider",
-        "price_usd": 690,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.0,
-            "freestyle": 2.5
-        },
-        "value_deal": 1.09
+        "price": 690,
+        "value": 1.86
     },
     {
-        "id": "103393",
-        "brand": "Garden",
-        "name": "Kazak",
-        "price_usd": 620,
-        "performance": {
-            "powder": 2.0,
-            "carving": 3.0,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.08
+        "brand": "K2",
+        "name": "Sky Pilot",
+        "price": 630,
+        "value": 1.85
     },
     {
-        "id": "108296",
-        "brand": "Stranda",
-        "name": "Makrill",
-        "price_usd": 890,
-        "performance": {
-            "powder": 4.5,
-            "carving": 3.5,
-            "freestyle": 1.5
-        },
-        "value_deal": 1.07
+        "brand": "Lib Tech",
+        "name": "T.Rice Pro Camber",
+        "price": 629,
+        "value": 1.85
     },
     {
-        "id": "106942",
-        "brand": "Amplid",
-        "name": "Time Machine",
-        "price_usd": 869,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 1.07
+        "brand": "Salomon",
+        "name": "Assassin Pro",
+        "price": 629,
+        "value": 1.85
     },
     {
-        "id": "106518",
-        "brand": "Stranda",
-        "name": "Descender Evo",
-        "price_usd": 949,
-        "performance": {
-            "powder": 3.5,
-            "carving": 4.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.07
+        "brand": "Bataleon",
+        "name": "Cameleon",
+        "price": 660,
+        "value": 1.84
     },
     {
-        "id": "106178",
+        "brand": "Burton",
+        "name": "Counterbalance",
+        "price": 660,
+        "value": 1.82
+    },
+    {
+        "brand": "Never Summer",
+        "name": "Trooper",
+        "price": 640,
+        "value": 1.82
+    },
+    {
+        "brand": "Jones",
+        "name": "Women's Howler",
+        "price": 700,
+        "value": 1.79
+    },
+    {
+        "brand": "Never Summer",
+        "name": "Proto T3 Eclipse",
+        "price": 650,
+        "value": 1.79
+    },
+    {
+        "brand": "Nidecker",
+        "name": "Smoke",
+        "price": 650,
+        "value": 1.77
+    },
+    {
+        "brand": "Burton",
+        "name": "Deep Thinker",
+        "price": 639,
+        "value": 1.77
+    },
+    {
+        "brand": "Jones",
+        "name": "Howler",
+        "price": 700,
+        "value": 1.74
+    },
+    {
+        "brand": "Lib Tech ",
+        "name": "Skunk Ape",
+        "price": 699,
+        "value": 1.74
+    },
+    {
+        "brand": "Burton",
+        "name": "Hometown Hero",
+        "price": 669,
+        "value": 1.74
+    },
+    {
         "brand": "Never Summer",
         "name": "V-Twin ",
-        "price_usd": 670,
-        "performance": {
-            "powder": 2.5,
-            "carving": 2.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.07
+        "price": 670,
+        "value": 1.72
     },
     {
-        "id": "105836",
-        "brand": "Jones ",
-        "name": "Stratos Split",
-        "price_usd": 950,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 2.2
-        },
-        "value_deal": 1.07
+        "brand": "Never Summer",
+        "name": "Proto Type 3",
+        "price": 700,
+        "value": 1.71
     },
     {
-        "id": "104371",
+        "brand": "Soul",
+        "name": "Tree D",
+        "price": 700,
+        "value": 1.71
+    },
+    {
+        "brand": "YES",
+        "name": "Standard Xtrm",
+        "price": 690,
+        "value": 1.69
+    },
+    {
+        "brand": "Never Summer",
+        "name": "Proto T3 Ultra",
+        "price": 700,
+        "value": 1.69
+    },
+    {
+        "brand": "Lib Tech",
+        "name": "Skunk Ape Camber",
+        "price": 699,
+        "value": 1.69
+    },
+    {
+        "brand": "Lib Tech",
+        "name": "EJack Knife",
+        "price": 699,
+        "value": 1.69
+    },
+    {
         "brand": "Jones",
         "name": "Mountain Twin Pro",
-        "price_usd": 700,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 1.07
+        "price": 700,
+        "value": 1.69
     },
     {
-        "id": "101455",
-        "brand": "Burton",
-        "name": "Short Stop",
-        "price_usd": 820,
-        "performance": {
-            "powder": 4.5,
-            "carving": 2.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.06
+        "brand": "Soul",
+        "name": "Tree DX",
+        "price": 700,
+        "value": 1.69
     },
     {
-        "id": "95850",
+        "brand": "Weston",
+        "name": "Gnarnia",
+        "price": 700,
+        "value": 1.67
+    },
+    {
+        "brand": "K2",
+        "name": "Commonwealth",
+        "price": 670,
+        "value": 1.67
+    },
+    {
+        "brand": "United Shapes",
+        "name": "Cadet Limited",
+        "price": 699,
+        "value": 1.67
+    },
+    {
+        "brand": "Telos",
+        "name": "DST",
+        "price": 749,
+        "value": 1.65
+    },
+    {
         "brand": "Never Summer",
         "name": "Proto T3 Fr",
-        "price_usd": 710,
-        "performance": {
-            "powder": 3.0,
-            "carving": 2.5,
-            "freestyle": 1.8
-        },
-        "value_deal": 1.03
+        "price": 710,
+        "value": 1.64
     },
     {
-        "id": "6006",
-        "brand": "Gentemstick",
-        "name": "Rocket Fish",
-        "price_usd": 1000,
-        "performance": {
-            "powder": 5.0,
-            "carving": 3.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 1.02
+        "brand": "United Shapes",
+        "name": "Transmission",
+        "price": 699,
+        "value": 1.62
     },
     {
-        "id": "105671",
-        "brand": "Jones ",
-        "name": "Storm Chaser Split",
-        "price_usd": 950,
-        "performance": {
-            "powder": 5.0,
-            "carving": 2.5,
-            "freestyle": 1.7
-        },
-        "value_deal": 0.96
+        "brand": "Bataleon",
+        "name": "Goliath Plus",
+        "price": 700,
+        "value": 1.62
     },
     {
-        "id": "104335",
-        "brand": "Offshore",
-        "name": "Snurfs Up",
-        "price_usd": 1060,
-        "performance": {
-            "powder": 4.0,
-            "carving": 4.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 0.94
+        "brand": "Lib Tech",
+        "name": "Son Of Birdman",
+        "price": 750,
+        "value": 1.6
     },
     {
-        "id": "86131",
+        "brand": "Capita",
+        "name": "Spring Break Powder Glider",
+        "price": 799,
+        "value": 1.59
+    },
+    {
+        "brand": "Lib Tech",
+        "name": "Mayhem Sweetfish",
+        "price": 749,
+        "value": 1.58
+    },
+    {
+        "brand": "Cardiff",
+        "name": "Goat",
+        "price": 750,
+        "value": 1.53
+    },
+    {
         "brand": "Capita",
         "name": "Super DOA",
-        "price_usd": 799,
-        "performance": {
-            "powder": 1.5,
-            "carving": 3.0,
-            "freestyle": 2.7
-        },
-        "value_deal": 0.9
+        "price": 799,
+        "value": 1.52
     },
     {
-        "id": "346",
+        "brand": "United Shapes",
+        "name": "Deep Reach",
+        "price": 750,
+        "value": 1.49
+    },
+    {
         "brand": "Nidecker",
-        "name": "Ultralight",
-        "price_usd": 999,
-        "performance": {
-            "powder": 4.0,
-            "carving": 3.0,
-            "freestyle": 2.0
-        },
-        "value_deal": 0.9
+        "name": "Megalight",
+        "price": 850,
+        "value": 1.39
     },
     {
-        "id": "97211",
+        "brand": "Burton",
+        "name": "High Fidelity",
+        "price": 840,
+        "value": 1.39
+    },
+    {
+        "brand": "Amplid",
+        "name": "Souly Grail",
+        "price": 869,
+        "value": 1.38
+    },
+    {
+        "brand": "Burton",
+        "name": "Smooth Operator ",
+        "price": 850,
+        "value": 1.37
+    },
+    {
+        "brand": "Jones ",
+        "name": "Mind Expander Split",
+        "price": 930,
+        "value": 1.36
+    },
+    {
+        "brand": "Amplid",
+        "name": "Time Machine",
+        "price": 869,
+        "value": 1.34
+    },
+    {
+        "brand": "Burton",
+        "name": "Smooth Operator",
+        "price": 900,
+        "value": 1.3
+    },
+    {
+        "brand": "Jones ",
+        "name": "Stratos Split",
+        "price": 950,
+        "value": 1.28
+    },
+    {
+        "brand": "Jones ",
+        "name": "Storm Chaser Split",
+        "price": 950,
+        "value": 1.28
+    },
+    {
+        "brand": "Stranda",
+        "name": "Makrill",
+        "price": 890,
+        "value": 1.25
+    },
+    {
         "brand": "Capita",
         "name": "Mega Merc",
-        "price_usd": 950,
-        "performance": {
-            "powder": 2.5,
-            "carving": 3.5,
-            "freestyle": 2.5
-        },
-        "value_deal": 0.89
+        "price": 950,
+        "value": 1.21
     },
     {
-        "id": "96431",
-        "brand": "Nitro",
-        "name": "Highlander",
-        "price_usd": 1030,
-        "performance": {
-            "powder": 2.5,
-            "carving": 4.5,
-            "freestyle": 2.0
-        },
-        "value_deal": 0.87
-    },
-    {
-        "id": "100680",
-        "brand": "Capita",
-        "name": "Mega Death",
-        "price_usd": 1000,
-        "performance": {
-            "powder": 3.0,
-            "carving": 3.5,
-            "freestyle": 2.2
-        },
-        "value_deal": 0.87
-    },
-    {
-        "id": "105858",
         "brand": "Jones",
         "name": "Solution Split",
-        "price_usd": 980,
-        "performance": {
-            "powder": 4.0,
-            "carving": 2.5,
-            "freestyle": 1.5
-        },
-        "value_deal": 0.82
+        "price": 980,
+        "value": 1.19
     },
     {
-        "id": "103899",
-        "brand": "Rome",
-        "name": "Rene-Gade",
-        "price_usd": 2025,
-        "performance": {
-            "powder": 1.5,
-            "carving": 4.5,
-            "freestyle": 2.3
-        },
-        "value_deal": 0.41
+        "brand": "Stranda",
+        "name": "Descender Evo",
+        "price": 949,
+        "value": 1.18
+    },
+    {
+        "brand": "Offshore",
+        "name": "Snurfs Up",
+        "price": 1060,
+        "value": 1.16
+    },
+    {
+        "brand": "Nitro",
+        "name": "Highlander",
+        "price": 1030,
+        "value": 1.1
     }
 ]
